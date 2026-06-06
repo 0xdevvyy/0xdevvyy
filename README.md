@@ -1,7 +1,7 @@
 ---
 
 ###  About Me  
-I am a **Junior Software Developer** with a strong interest in **Web Development**.  
+I am a **Entry Level Software Developer** with a strong interest in **Web Development**.  
 I’m proficient in **PHP**, **Laravel**, and **JavaScript**, with hands on experience in **MVC architecture** and **Object Oriented Programming (OOP)**.  
 I enjoy **building and breaking things**. when something fails, I see it as a chance to learn, debug and improve.  
 
